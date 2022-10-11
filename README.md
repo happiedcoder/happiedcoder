@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @happiedcoder @dataanalyst
+- 👋 Hi, I’m @data scientist
 - 👀 I’m interested in AI ,ML and Python 
-- 🌱 I’m currently learning blockchain Technology
-- 💞️ 
 - 📫 you can reach me @happiedcoder@gmail.com
 
 <!---

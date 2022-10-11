@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @happiedcoder
-- 👀 I’m interested in AI and BlockChain 
-- 🌱 I’m currently learning python and ML
-- 💞️ I’m looking to collaborate on Finding bugs
+- 👋 Hi, I’m @happiedcoder @dataanalyst
+- 👀 I’m interested in AI ,ML and Python 
+- 🌱 I’m currently learning blockchain Technology
+- 💞️ 
 - 📫 you can reach me @happiedcoder@gmail.com
 
 <!---
